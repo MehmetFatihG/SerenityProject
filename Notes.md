@@ -7,7 +7,7 @@ Here is the [link](https://serenity-bdd.github.io/theserenitybook/latest/index.h
 ###Steps to create a project
 1. Create a maven project called `SerenityProject`
    1. Under `pom.xml`
-       1. add below property section
+      1. add below property section
        ```xml
        <properties>
            <maven.compiler.source>11</maven.compiler.source>
@@ -56,7 +56,7 @@ Here is the [link](https://serenity-bdd.github.io/theserenitybook/latest/index.h
            </dependency>
        </dependencies>
        ```
-       3. add build plugins 
+      3. add build plugins 
       ```xml
        <build>
            <plugins>
