@@ -65,7 +65,7 @@
                     <target>8</target>
                 </configuration>
             </plugin>
-            <!--            This is where the report is being generated after the test run -->
+            <!--This is where the report is being generated after the test run -->
             <plugin>
                 <groupId>net.serenity-bdd.maven.plugins</groupId>
                 <artifactId>serenity-maven-plugin</artifactId>
